@@ -1,5 +1,5 @@
 
-const monsterInfoUrl = "https://0b331e59-a357-438a-b55f-cc8c803bacc1-00-9dt3ftfu9ti1.riker.replit.dev/name";
+const monsterInfoUrl = "https://pokemon-database-backend.vercel.app/name";
 
 const searchButton = document.getElementById("searchButton");
 const searchName = document.getElementById("searchName");
